@@ -4,6 +4,6 @@
 	
 	</head>
 	<body>
-	
+	<div>przeslij mi, prosze, jak wszystko wysrodkowac</div>
 	</body>
 <html/>
