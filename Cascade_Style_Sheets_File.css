@@ -1,3 +1,17 @@
 body {
 	background: #f2ca80;
 }
+
+.circular img {
+	margin-top: 15px;
+    /* width: 300px; */
+    /* height: 300px; */
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(117, 76, 41, 0.7);
+}
+
+.container {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+}
